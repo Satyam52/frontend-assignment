@@ -1,0 +1,3864 @@
+{
+    "AD": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "AD",
+            "code3": "AND",
+            "num": "020"
+        },
+        "languages": [
+            "ca"
+        ],
+        "name": "Andorra",
+        "region": "Europe"
+    },
+    "AE": {
+        "currency": {
+            "primary": "AED"
+        },
+        "iso": {
+            "code2": "AE",
+            "code3": "ARE",
+            "num": "784"
+        },
+        "languages": [
+            "ar"
+        ],
+        "name": "United Arab Emirates",
+        "region": "Asia"
+    },
+    "AF": {
+        "currency": {
+            "primary": "AFN"
+        },
+        "iso": {
+            "code2": "AF",
+            "code3": "AFG",
+            "num": "004"
+        },
+        "languages": [
+            "ps",
+            "uz",
+            "tk"
+        ],
+        "name": "Afghanistan",
+        "region": "Asia"
+    },
+    "AG": {
+        "currency": {
+            "primary": "XCD"
+        },
+        "iso": {
+            "code2": "AG",
+            "code3": "ATG",
+            "num": "028"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Antigua and Barbuda",
+        "region": "Americas"
+    },
+    "AI": {
+        "currency": {
+            "primary": "XCD"
+        },
+        "iso": {
+            "code2": "AI",
+            "code3": "AIA",
+            "num": "660"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Anguilla",
+        "region": "Americas"
+    },
+    "AL": {
+        "currency": {
+            "primary": "ALL"
+        },
+        "iso": {
+            "code2": "AL",
+            "code3": "ALB",
+            "num": "008"
+        },
+        "languages": [
+            "sq"
+        ],
+        "name": "Albania",
+        "region": "Europe"
+    },
+    "AM": {
+        "currency": {
+            "primary": "AMD"
+        },
+        "iso": {
+            "code2": "AM",
+            "code3": "ARM",
+            "num": "051"
+        },
+        "languages": [
+            "hy",
+            "ru"
+        ],
+        "name": "Armenia",
+        "region": "Asia"
+    },
+    "AO": {
+        "currency": {
+            "primary": "AOA"
+        },
+        "iso": {
+            "code2": "AO",
+            "code3": "AGO",
+            "num": "024"
+        },
+        "languages": [
+            "pt"
+        ],
+        "name": "Angola",
+        "region": "Africa"
+    },
+    "AQ": {
+        "currency": {
+            "primary": ""
+        },
+        "iso": {
+            "code2": "AQ",
+            "code3": "ATA",
+            "num": "010"
+        },
+        "languages": [],
+        "name": "Antarctica",
+        "region": null
+    },
+    "AR": {
+        "currency": {
+            "primary": "ARS"
+        },
+        "iso": {
+            "code2": "AR",
+            "code3": "ARG",
+            "num": "032"
+        },
+        "languages": [
+            "es",
+            "gn"
+        ],
+        "name": "Argentina",
+        "region": "Americas"
+    },
+    "AS": {
+        "currency": {
+            "primary": "USD"
+        },
+        "iso": {
+            "code2": "AS",
+            "code3": "ASM",
+            "num": "016"
+        },
+        "languages": [
+            "en",
+            "sm"
+        ],
+        "name": "American Samoa",
+        "region": "Oceania"
+    },
+    "AT": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "AT",
+            "code3": "AUT",
+            "num": "040"
+        },
+        "languages": [
+            "de"
+        ],
+        "name": "Austria",
+        "region": "Europe"
+    },
+    "AU": {
+        "currency": {
+            "primary": "AUD"
+        },
+        "iso": {
+            "code2": "AU",
+            "code3": "AUS",
+            "num": "036"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Australia",
+        "region": "Oceania"
+    },
+    "AW": {
+        "currency": {
+            "primary": "AWG"
+        },
+        "iso": {
+            "code2": "AW",
+            "code3": "ABW",
+            "num": "533"
+        },
+        "languages": [
+            "nl",
+            "pa"
+        ],
+        "name": "Aruba",
+        "region": "Americas"
+    },
+    "AX": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "AX",
+            "code3": "ALA",
+            "num": "248"
+        },
+        "languages": [
+            "sv"
+        ],
+        "name": "Åland Islands",
+        "region": "Europe"
+    },
+    "AZ": {
+        "currency": {
+            "primary": "AZN"
+        },
+        "iso": {
+            "code2": "AZ",
+            "code3": "AZE",
+            "num": "031"
+        },
+        "languages": [
+            "az",
+            "hy"
+        ],
+        "name": "Azerbaijan",
+        "region": "Asia"
+    },
+    "BA": {
+        "currency": {
+            "primary": "BAM"
+        },
+        "iso": {
+            "code2": "BA",
+            "code3": "BIH",
+            "num": "070"
+        },
+        "languages": [
+            "bs",
+            "hr",
+            "sr"
+        ],
+        "name": "Bosnia and Herzegovina",
+        "region": "Europe"
+    },
+    "BB": {
+        "currency": {
+            "primary": "BBD"
+        },
+        "iso": {
+            "code2": "BB",
+            "code3": "BRB",
+            "num": "052"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Barbados",
+        "region": "Americas"
+    },
+    "BD": {
+        "currency": {
+            "primary": "BDT"
+        },
+        "iso": {
+            "code2": "BD",
+            "code3": "BGD",
+            "num": "050"
+        },
+        "languages": [
+            "bn"
+        ],
+        "name": "Bangladesh",
+        "region": "Asia"
+    },
+    "BE": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "BE",
+            "code3": "BEL",
+            "num": "056"
+        },
+        "languages": [
+            "nl",
+            "fr",
+            "de"
+        ],
+        "name": "Belgium",
+        "region": "Europe"
+    },
+    "BF": {
+        "currency": {
+            "primary": "XOF"
+        },
+        "iso": {
+            "code2": "BF",
+            "code3": "BFA",
+            "num": "854"
+        },
+        "languages": [
+            "fr",
+            "ff"
+        ],
+        "name": "Burkina Faso",
+        "region": "Africa"
+    },
+    "BG": {
+        "currency": {
+            "primary": "BGN"
+        },
+        "iso": {
+            "code2": "BG",
+            "code3": "BGR",
+            "num": "100"
+        },
+        "languages": [
+            "bg"
+        ],
+        "name": "Bulgaria",
+        "region": "Europe"
+    },
+    "BH": {
+        "currency": {
+            "primary": "BHD"
+        },
+        "iso": {
+            "code2": "BH",
+            "code3": "BHR",
+            "num": "048"
+        },
+        "languages": [
+            "ar"
+        ],
+        "name": "Bahrain",
+        "region": "Asia"
+    },
+    "BI": {
+        "currency": {
+            "primary": "BIF"
+        },
+        "iso": {
+            "code2": "BI",
+            "code3": "BDI",
+            "num": "108"
+        },
+        "languages": [
+            "fr",
+            "rn"
+        ],
+        "name": "Burundi",
+        "region": "Africa"
+    },
+    "BJ": {
+        "currency": {
+            "primary": "XOF"
+        },
+        "iso": {
+            "code2": "BJ",
+            "code3": "BEN",
+            "num": "204"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "Benin",
+        "region": "Africa"
+    },
+    "BL": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "BL",
+            "code3": "BLM",
+            "num": "652"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "Saint Barthélemy",
+        "region": "Americas"
+    },
+    "BM": {
+        "currency": {
+            "primary": "BMD"
+        },
+        "iso": {
+            "code2": "BM",
+            "code3": "BMU",
+            "num": "060"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Bermuda",
+        "region": "Americas"
+    },
+    "BN": {
+        "currency": {
+            "primary": "BND"
+        },
+        "iso": {
+            "code2": "BN",
+            "code3": "BRN",
+            "num": "096"
+        },
+        "languages": [
+            "ms"
+        ],
+        "name": "Brunei",
+        "region": "Asia"
+    },
+    "BO": {
+        "currency": {
+            "primary": "BOB"
+        },
+        "iso": {
+            "code2": "BO",
+            "code3": "BOL",
+            "num": "068"
+        },
+        "languages": [
+            "es",
+            "ay",
+            "qu"
+        ],
+        "name": "Bolivia",
+        "region": "Americas"
+    },
+    "BQ": {
+        "currency": {
+            "primary": "USD"
+        },
+        "iso": {
+            "code2": "BQ",
+            "code3": "BES",
+            "num": "535"
+        },
+        "languages": [
+            "nl"
+        ],
+        "name": "Bonaire",
+        "region": "Americas"
+    },
+    "BR": {
+        "currency": {
+            "primary": "BRL"
+        },
+        "iso": {
+            "code2": "BR",
+            "code3": "BRA",
+            "num": "076"
+        },
+        "languages": [
+            "pt"
+        ],
+        "name": "Brazil",
+        "region": "Americas"
+    },
+    "BS": {
+        "currency": {
+            "primary": "BSD"
+        },
+        "iso": {
+            "code2": "BS",
+            "code3": "BHS",
+            "num": "044"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Bahamas",
+        "region": "Americas"
+    },
+    "BT": {
+        "currency": {
+            "primary": "BTN"
+        },
+        "iso": {
+            "code2": "BT",
+            "code3": "BTN",
+            "num": "064"
+        },
+        "languages": [
+            "dz"
+        ],
+        "name": "Bhutan",
+        "region": "Asia"
+    },
+    "BV": {
+        "currency": {
+            "primary": "NOK"
+        },
+        "iso": {
+            "code2": "BV",
+            "code3": "BVT",
+            "num": "074"
+        },
+        "languages": [],
+        "name": "Bouvet Island",
+        "region": null
+    },
+    "BW": {
+        "currency": {
+            "primary": "BWP"
+        },
+        "iso": {
+            "code2": "BW",
+            "code3": "BWA",
+            "num": "072"
+        },
+        "languages": [
+            "en",
+            "tn"
+        ],
+        "name": "Botswana",
+        "region": "Africa"
+    },
+    "BY": {
+        "currency": {
+            "primary": "BYR"
+        },
+        "iso": {
+            "code2": "BY",
+            "code3": "BLR",
+            "num": "112"
+        },
+        "languages": [
+            "be",
+            "ru"
+        ],
+        "name": "Belarus",
+        "region": "Europe"
+    },
+    "BZ": {
+        "currency": {
+            "primary": "BZD"
+        },
+        "iso": {
+            "code2": "BZ",
+            "code3": "BLZ",
+            "num": "084"
+        },
+        "languages": [
+            "en",
+            "es"
+        ],
+        "name": "Belize",
+        "region": "Americas"
+    },
+    "CA": {
+        "currency": {
+            "primary": "CAD"
+        },
+        "iso": {
+            "code2": "CA",
+            "code3": "CAN",
+            "num": "124"
+        },
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "name": "Canada",
+        "region": "Americas"
+    },
+    "CC": {
+        "currency": {
+            "primary": "AUD"
+        },
+        "iso": {
+            "code2": "CC",
+            "code3": "CCK",
+            "num": "166"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Cocos (Keeling) Islands",
+        "region": "Oceania"
+    },
+    "CD": {
+        "currency": {
+            "primary": "CDF"
+        },
+        "iso": {
+            "code2": "CD",
+            "code3": "COD",
+            "num": "180"
+        },
+        "languages": [
+            "fr",
+            "ln",
+            "kg",
+            "sw",
+            "lu"
+        ],
+        "name": "Democratic Republic of the Congo",
+        "region": "Africa"
+    },
+    "CF": {
+        "currency": {
+            "primary": "XAF"
+        },
+        "iso": {
+            "code2": "CF",
+            "code3": "CAF",
+            "num": "140"
+        },
+        "languages": [
+            "fr",
+            "sg"
+        ],
+        "name": "Central African Republic",
+        "region": "Africa"
+    },
+    "CG": {
+        "currency": {
+            "primary": "XAF"
+        },
+        "iso": {
+            "code2": "CG",
+            "code3": "COG",
+            "num": "178"
+        },
+        "languages": [
+            "fr",
+            "ln"
+        ],
+        "name": "Republic of the Congo",
+        "region": "Africa"
+    },
+    "CH": {
+        "currency": {
+            "primary": "CHE"
+        },
+        "iso": {
+            "code2": "CH",
+            "code3": "CHE",
+            "num": "756"
+        },
+        "languages": [
+            "de",
+            "fr",
+            "it"
+        ],
+        "name": "Switzerland",
+        "region": "Europe"
+    },
+    "CI": {
+        "currency": {
+            "primary": "XOF"
+        },
+        "iso": {
+            "code2": "CI",
+            "code3": "CIV",
+            "num": "384"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "Ivory Coast",
+        "region": "Africa"
+    },
+    "CK": {
+        "currency": {
+            "primary": "NZD"
+        },
+        "iso": {
+            "code2": "CK",
+            "code3": "COK",
+            "num": "184"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Cook Islands",
+        "region": "Oceania"
+    },
+    "CL": {
+        "currency": {
+            "primary": "CLF"
+        },
+        "iso": {
+            "code2": "CL",
+            "code3": "CHL",
+            "num": "152"
+        },
+        "languages": [
+            "es"
+        ],
+        "name": "Chile",
+        "region": "Americas"
+    },
+    "CM": {
+        "currency": {
+            "primary": "XAF"
+        },
+        "iso": {
+            "code2": "CM",
+            "code3": "CMR",
+            "num": "120"
+        },
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "name": "Cameroon",
+        "region": "Africa"
+    },
+    "CN": {
+        "currency": {
+            "primary": "CNY"
+        },
+        "iso": {
+            "code2": "CN",
+            "code3": "CHN",
+            "num": "156"
+        },
+        "languages": [
+            "zh"
+        ],
+        "name": "China",
+        "region": "Asia"
+    },
+    "CO": {
+        "currency": {
+            "primary": "COP"
+        },
+        "iso": {
+            "code2": "CO",
+            "code3": "COL",
+            "num": "170"
+        },
+        "languages": [
+            "es"
+        ],
+        "name": "Colombia",
+        "region": "Americas"
+    },
+    "CR": {
+        "currency": {
+            "primary": "CRC"
+        },
+        "iso": {
+            "code2": "CR",
+            "code3": "CRI",
+            "num": "188"
+        },
+        "languages": [
+            "es"
+        ],
+        "name": "Costa Rica",
+        "region": "Americas"
+    },
+    "CU": {
+        "currency": {
+            "primary": "CUC"
+        },
+        "iso": {
+            "code2": "CU",
+            "code3": "CUB",
+            "num": "192"
+        },
+        "languages": [
+            "es"
+        ],
+        "name": "Cuba",
+        "region": "Americas"
+    },
+    "CV": {
+        "currency": {
+            "primary": "CVE"
+        },
+        "iso": {
+            "code2": "CV",
+            "code3": "CPV",
+            "num": "132"
+        },
+        "languages": [
+            "pt"
+        ],
+        "name": "Cape Verde",
+        "region": "Africa"
+    },
+    "CW": {
+        "currency": {
+            "primary": "ANG"
+        },
+        "iso": {
+            "code2": "CW",
+            "code3": "CUW",
+            "num": "531"
+        },
+        "languages": [
+            "nl",
+            "pa",
+            "en"
+        ],
+        "name": "Curaçao",
+        "region": "Americas"
+    },
+    "CX": {
+        "currency": {
+            "primary": "AUD"
+        },
+        "iso": {
+            "code2": "CX",
+            "code3": "CXR",
+            "num": "162"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Christmas Island",
+        "region": "Oceania"
+    },
+    "CY": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "CY",
+            "code3": "CYP",
+            "num": "196"
+        },
+        "languages": [
+            "el",
+            "tr",
+            "hy"
+        ],
+        "name": "Cyprus",
+        "region": "Europe"
+    },
+    "CZ": {
+        "currency": {
+            "primary": "CZK"
+        },
+        "iso": {
+            "code2": "CZ",
+            "code3": "CZE",
+            "num": "203"
+        },
+        "languages": [
+            "cs",
+            "sk"
+        ],
+        "name": "Czech Republic",
+        "region": "Europe"
+    },
+    "DE": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "DE",
+            "code3": "DEU",
+            "num": "276"
+        },
+        "languages": [
+            "de"
+        ],
+        "name": "Germany",
+        "region": "Europe"
+    },
+    "DJ": {
+        "currency": {
+            "primary": "DJF"
+        },
+        "iso": {
+            "code2": "DJ",
+            "code3": "DJI",
+            "num": "262"
+        },
+        "languages": [
+            "fr",
+            "ar"
+        ],
+        "name": "Djibouti",
+        "region": "Africa"
+    },
+    "DK": {
+        "currency": {
+            "primary": "DKK"
+        },
+        "iso": {
+            "code2": "DK",
+            "code3": "DNK",
+            "num": "208"
+        },
+        "languages": [
+            "da"
+        ],
+        "name": "Denmark",
+        "region": "Europe"
+    },
+    "DM": {
+        "currency": {
+            "primary": "XCD"
+        },
+        "iso": {
+            "code2": "DM",
+            "code3": "DMA",
+            "num": "212"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Dominica",
+        "region": "Americas"
+    },
+    "DO": {
+        "currency": {
+            "primary": "DOP"
+        },
+        "iso": {
+            "code2": "DO",
+            "code3": "DOM",
+            "num": "214"
+        },
+        "languages": [
+            "es"
+        ],
+        "name": "Dominican Republic",
+        "region": "Americas"
+    },
+    "DZ": {
+        "currency": {
+            "primary": "DZD"
+        },
+        "iso": {
+            "code2": "DZ",
+            "code3": "DZA",
+            "num": "012"
+        },
+        "languages": [
+            "ar"
+        ],
+        "name": "Algeria",
+        "region": "Africa"
+    },
+    "EC": {
+        "currency": {
+            "primary": "USD"
+        },
+        "iso": {
+            "code2": "EC",
+            "code3": "ECU",
+            "num": "218"
+        },
+        "languages": [
+            "es"
+        ],
+        "name": "Ecuador",
+        "region": "Americas"
+    },
+    "EE": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "EE",
+            "code3": "EST",
+            "num": "233"
+        },
+        "languages": [
+            "et"
+        ],
+        "name": "Estonia",
+        "region": "Europe"
+    },
+    "EG": {
+        "currency": {
+            "primary": "EGP"
+        },
+        "iso": {
+            "code2": "EG",
+            "code3": "EGY",
+            "num": "818"
+        },
+        "languages": [
+            "ar"
+        ],
+        "name": "Egypt",
+        "region": "Africa"
+    },
+    "EH": {
+        "currency": {
+            "primary": "MAD"
+        },
+        "iso": {
+            "code2": "EH",
+            "code3": "ESH",
+            "num": "732"
+        },
+        "languages": [
+            "es"
+        ],
+        "name": "Western Sahara",
+        "region": "Africa"
+    },
+    "ER": {
+        "currency": {
+            "primary": "ERN"
+        },
+        "iso": {
+            "code2": "ER",
+            "code3": "ERI",
+            "num": "232"
+        },
+        "languages": [
+            "ti",
+            "ar",
+            "en"
+        ],
+        "name": "Eritrea",
+        "region": "Africa"
+    },
+    "ES": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "ES",
+            "code3": "ESP",
+            "num": "724"
+        },
+        "languages": [
+            "es",
+            "eu",
+            "ca",
+            "gl",
+            "oc"
+        ],
+        "name": "Spain",
+        "region": "Europe"
+    },
+    "ET": {
+        "currency": {
+            "primary": "ETB"
+        },
+        "iso": {
+            "code2": "ET",
+            "code3": "ETH",
+            "num": "231"
+        },
+        "languages": [
+            "am"
+        ],
+        "name": "Ethiopia",
+        "region": "Africa"
+    },
+    "FI": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "FI",
+            "code3": "FIN",
+            "num": "246"
+        },
+        "languages": [
+            "fi",
+            "sv"
+        ],
+        "name": "Finland",
+        "region": "Europe"
+    },
+    "FJ": {
+        "currency": {
+            "primary": "FJD"
+        },
+        "iso": {
+            "code2": "FJ",
+            "code3": "FJI",
+            "num": "242"
+        },
+        "languages": [
+            "en",
+            "fj",
+            "hi",
+            "ur"
+        ],
+        "name": "Fiji",
+        "region": "Oceania"
+    },
+    "FK": {
+        "currency": {
+            "primary": "FKP"
+        },
+        "iso": {
+            "code2": "FK",
+            "code3": "FLK",
+            "num": "238"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Falkland Islands",
+        "region": "Americas"
+    },
+    "FM": {
+        "currency": {
+            "primary": "USD"
+        },
+        "iso": {
+            "code2": "FM",
+            "code3": "FSM",
+            "num": "583"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Micronesia",
+        "region": "Oceania"
+    },
+    "FO": {
+        "currency": {
+            "primary": "DKK"
+        },
+        "iso": {
+            "code2": "FO",
+            "code3": "FRO",
+            "num": "234"
+        },
+        "languages": [
+            "fo"
+        ],
+        "name": "Faroe Islands",
+        "region": "Europe"
+    },
+    "FR": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "FR",
+            "code3": "FRA",
+            "num": "250"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "France",
+        "region": "Europe"
+    },
+    "GA": {
+        "currency": {
+            "primary": "XAF"
+        },
+        "iso": {
+            "code2": "GA",
+            "code3": "GAB",
+            "num": "266"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "Gabon",
+        "region": "Africa"
+    },
+    "GB": {
+        "currency": {
+            "primary": "GBP"
+        },
+        "iso": {
+            "code2": "GB",
+            "code3": "GBR",
+            "num": "826"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "United Kingdom",
+        "region": "Europe"
+    },
+    "GD": {
+        "currency": {
+            "primary": "XCD"
+        },
+        "iso": {
+            "code2": "GD",
+            "code3": "GRD",
+            "num": "308"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Grenada",
+        "region": "Americas"
+    },
+    "GE": {
+        "currency": {
+            "primary": "GEL"
+        },
+        "iso": {
+            "code2": "GE",
+            "code3": "GEO",
+            "num": "268"
+        },
+        "languages": [
+            "ka"
+        ],
+        "name": "Georgia",
+        "region": "Asia"
+    },
+    "GF": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "GF",
+            "code3": "GUF",
+            "num": "254"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "French Guiana",
+        "region": "Americas"
+    },
+    "GG": {
+        "currency": {
+            "primary": "GBP"
+        },
+        "iso": {
+            "code2": "GG",
+            "code3": "GGY",
+            "num": "831"
+        },
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "name": "Guernsey",
+        "region": "Europe"
+    },
+    "GH": {
+        "currency": {
+            "primary": "GHS"
+        },
+        "iso": {
+            "code2": "GH",
+            "code3": "GHA",
+            "num": "288"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Ghana",
+        "region": "Africa"
+    },
+    "GI": {
+        "currency": {
+            "primary": "GIP"
+        },
+        "iso": {
+            "code2": "GI",
+            "code3": "GIB",
+            "num": "292"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Gibraltar",
+        "region": "Europe"
+    },
+    "GL": {
+        "currency": {
+            "primary": "DKK"
+        },
+        "iso": {
+            "code2": "GL",
+            "code3": "GRL",
+            "num": "304"
+        },
+        "languages": [
+            "kl"
+        ],
+        "name": "Greenland",
+        "region": "Americas"
+    },
+    "GM": {
+        "currency": {
+            "primary": "GMD"
+        },
+        "iso": {
+            "code2": "GM",
+            "code3": "GMB",
+            "num": "270"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Gambia",
+        "region": "Africa"
+    },
+    "GN": {
+        "currency": {
+            "primary": "GNF"
+        },
+        "iso": {
+            "code2": "GN",
+            "code3": "GIN",
+            "num": "324"
+        },
+        "languages": [
+            "fr",
+            "ff"
+        ],
+        "name": "Guinea",
+        "region": "Africa"
+    },
+    "GP": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "GP",
+            "code3": "GLP",
+            "num": "312"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "Guadeloupe",
+        "region": "Americas"
+    },
+    "GQ": {
+        "currency": {
+            "primary": "XAF"
+        },
+        "iso": {
+            "code2": "GQ",
+            "code3": "GNQ",
+            "num": "226"
+        },
+        "languages": [
+            "es",
+            "fr"
+        ],
+        "name": "Equatorial Guinea",
+        "region": "Africa"
+    },
+    "GR": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "GR",
+            "code3": "GRC",
+            "num": "300"
+        },
+        "languages": [
+            "el"
+        ],
+        "name": "Greece",
+        "region": "Europe"
+    },
+    "GS": {
+        "currency": {
+            "primary": "GBP"
+        },
+        "iso": {
+            "code2": "GS",
+            "code3": "SGS",
+            "num": "239"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "South Georgia",
+        "region": "Americas"
+    },
+    "GT": {
+        "currency": {
+            "primary": "GTQ"
+        },
+        "iso": {
+            "code2": "GT",
+            "code3": "GTM",
+            "num": "320"
+        },
+        "languages": [
+            "es"
+        ],
+        "name": "Guatemala",
+        "region": "Americas"
+    },
+    "GU": {
+        "currency": {
+            "primary": "USD"
+        },
+        "iso": {
+            "code2": "GU",
+            "code3": "GUM",
+            "num": "316"
+        },
+        "languages": [
+            "en",
+            "ch",
+            "es"
+        ],
+        "name": "Guam",
+        "region": "Oceania"
+    },
+    "GW": {
+        "currency": {
+            "primary": "XOF"
+        },
+        "iso": {
+            "code2": "GW",
+            "code3": "GNB",
+            "num": "624"
+        },
+        "languages": [
+            "pt"
+        ],
+        "name": "Guinea-Bissau",
+        "region": "Africa"
+    },
+    "GY": {
+        "currency": {
+            "primary": "GYD"
+        },
+        "iso": {
+            "code2": "GY",
+            "code3": "GUY",
+            "num": "328"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Guyana",
+        "region": "Americas"
+    },
+    "HK": {
+        "currency": {
+            "primary": "HKD"
+        },
+        "iso": {
+            "code2": "HK",
+            "code3": "HKG",
+            "num": "344"
+        },
+        "languages": [
+            "zh",
+            "en"
+        ],
+        "name": "Hong Kong",
+        "region": "Asia"
+    },
+    "HM": {
+        "currency": {
+            "primary": "AUD"
+        },
+        "iso": {
+            "code2": "HM",
+            "code3": "HMD",
+            "num": "334"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Heard Island and McDonald Islands",
+        "region": null
+    },
+    "HN": {
+        "currency": {
+            "primary": "HNL"
+        },
+        "iso": {
+            "code2": "HN",
+            "code3": "HND",
+            "num": "340"
+        },
+        "languages": [
+            "es"
+        ],
+        "name": "Honduras",
+        "region": "Americas"
+    },
+    "HR": {
+        "currency": {
+            "primary": "HRK"
+        },
+        "iso": {
+            "code2": "HR",
+            "code3": "HRV",
+            "num": "191"
+        },
+        "languages": [
+            "hr"
+        ],
+        "name": "Croatia",
+        "region": "Europe"
+    },
+    "HT": {
+        "currency": {
+            "primary": "HTG"
+        },
+        "iso": {
+            "code2": "HT",
+            "code3": "HTI",
+            "num": "332"
+        },
+        "languages": [
+            "fr",
+            "ht"
+        ],
+        "name": "Haiti",
+        "region": "Americas"
+    },
+    "HU": {
+        "currency": {
+            "primary": "HUF"
+        },
+        "iso": {
+            "code2": "HU",
+            "code3": "HUN",
+            "num": "348"
+        },
+        "languages": [
+            "hu"
+        ],
+        "name": "Hungary",
+        "region": "Europe"
+    },
+    "ID": {
+        "currency": {
+            "primary": "IDR"
+        },
+        "iso": {
+            "code2": "ID",
+            "code3": "IDN",
+            "num": "360"
+        },
+        "languages": [
+            "id"
+        ],
+        "name": "Indonesia",
+        "region": "Asia"
+    },
+    "IE": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "IE",
+            "code3": "IRL",
+            "num": "372"
+        },
+        "languages": [
+            "ga",
+            "en"
+        ],
+        "name": "Ireland",
+        "region": "Europe"
+    },
+    "IL": {
+        "currency": {
+            "primary": "ILS"
+        },
+        "iso": {
+            "code2": "IL",
+            "code3": "ISR",
+            "num": "376"
+        },
+        "languages": [
+            "he",
+            "ar"
+        ],
+        "name": "Israel",
+        "region": "Asia"
+    },
+    "IM": {
+        "currency": {
+            "primary": "GBP"
+        },
+        "iso": {
+            "code2": "IM",
+            "code3": "IMN",
+            "num": "833"
+        },
+        "languages": [
+            "en",
+            "gv"
+        ],
+        "name": "Isle of Man",
+        "region": "Europe"
+    },
+    "IN": {
+        "currency": {
+            "primary": "INR"
+        },
+        "iso": {
+            "code2": "IN",
+            "code3": "IND",
+            "num": "356"
+        },
+        "languages": [
+            "hi",
+            "en"
+        ],
+        "name": "India",
+        "region": "Asia"
+    },
+    "IO": {
+        "currency": {
+            "primary": "USD"
+        },
+        "iso": {
+            "code2": "IO",
+            "code3": "IOT",
+            "num": "086"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "British Indian Ocean Territory",
+        "region": "Africa"
+    },
+    "IQ": {
+        "currency": {
+            "primary": "IQD"
+        },
+        "iso": {
+            "code2": "IQ",
+            "code3": "IRQ",
+            "num": "368"
+        },
+        "languages": [
+            "ar",
+            "ku"
+        ],
+        "name": "Iraq",
+        "region": "Asia"
+    },
+    "IR": {
+        "currency": {
+            "primary": "IRR"
+        },
+        "iso": {
+            "code2": "IR",
+            "code3": "IRN",
+            "num": "364"
+        },
+        "languages": [
+            "fa"
+        ],
+        "name": "Iran",
+        "region": "Asia"
+    },
+    "IS": {
+        "currency": {
+            "primary": "ISK"
+        },
+        "iso": {
+            "code2": "IS",
+            "code3": "ISL",
+            "num": "352"
+        },
+        "languages": [
+            "is"
+        ],
+        "name": "Iceland",
+        "region": "Europe"
+    },
+    "IT": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "IT",
+            "code3": "ITA",
+            "num": "380"
+        },
+        "languages": [
+            "it"
+        ],
+        "name": "Italy",
+        "region": "Europe"
+    },
+    "JE": {
+        "currency": {
+            "primary": "GBP"
+        },
+        "iso": {
+            "code2": "JE",
+            "code3": "JEY",
+            "num": "832"
+        },
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "name": "Jersey",
+        "region": "Europe"
+    },
+    "JM": {
+        "currency": {
+            "primary": "JMD"
+        },
+        "iso": {
+            "code2": "JM",
+            "code3": "JAM",
+            "num": "388"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Jamaica",
+        "region": "Americas"
+    },
+    "JO": {
+        "currency": {
+            "primary": "JOD"
+        },
+        "iso": {
+            "code2": "JO",
+            "code3": "JOR",
+            "num": "400"
+        },
+        "languages": [
+            "ar"
+        ],
+        "name": "Jordan",
+        "region": "Asia"
+    },
+    "JP": {
+        "currency": {
+            "primary": "JPY"
+        },
+        "iso": {
+            "code2": "JP",
+            "code3": "JPN",
+            "num": "392"
+        },
+        "languages": [
+            "ja"
+        ],
+        "name": "Japan",
+        "region": "Asia"
+    },
+    "KE": {
+        "currency": {
+            "primary": "KES"
+        },
+        "iso": {
+            "code2": "KE",
+            "code3": "KEN",
+            "num": "404"
+        },
+        "languages": [
+            "en",
+            "sw"
+        ],
+        "name": "Kenya",
+        "region": "Africa"
+    },
+    "KG": {
+        "currency": {
+            "primary": "KGS"
+        },
+        "iso": {
+            "code2": "KG",
+            "code3": "KGZ",
+            "num": "417"
+        },
+        "languages": [
+            "ky",
+            "ru"
+        ],
+        "name": "Kyrgyzstan",
+        "region": "Asia"
+    },
+    "KH": {
+        "currency": {
+            "primary": "KHR"
+        },
+        "iso": {
+            "code2": "KH",
+            "code3": "KHM",
+            "num": "116"
+        },
+        "languages": [
+            "km"
+        ],
+        "name": "Cambodia",
+        "region": "Asia"
+    },
+    "KI": {
+        "currency": {
+            "primary": "AUD"
+        },
+        "iso": {
+            "code2": "KI",
+            "code3": "KIR",
+            "num": "296"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Kiribati",
+        "region": "Oceania"
+    },
+    "KM": {
+        "currency": {
+            "primary": "KMF"
+        },
+        "iso": {
+            "code2": "KM",
+            "code3": "COM",
+            "num": "174"
+        },
+        "languages": [
+            "ar",
+            "fr"
+        ],
+        "name": "Comoros",
+        "region": "Africa"
+    },
+    "KN": {
+        "currency": {
+            "primary": "XCD"
+        },
+        "iso": {
+            "code2": "KN",
+            "code3": "KNA",
+            "num": "659"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Saint Kitts and Nevis",
+        "region": "Americas"
+    },
+    "KP": {
+        "currency": {
+            "primary": "KPW"
+        },
+        "iso": {
+            "code2": "KP",
+            "code3": "PRK",
+            "num": "408"
+        },
+        "languages": [
+            "ko"
+        ],
+        "name": "North Korea",
+        "region": "Asia"
+    },
+    "KR": {
+        "currency": {
+            "primary": "KRW"
+        },
+        "iso": {
+            "code2": "KR",
+            "code3": "KOR",
+            "num": "410"
+        },
+        "languages": [
+            "ko"
+        ],
+        "name": "South Korea",
+        "region": "Asia"
+    },
+    "KW": {
+        "currency": {
+            "primary": "KWD"
+        },
+        "iso": {
+            "code2": "KW",
+            "code3": "KWT",
+            "num": "414"
+        },
+        "languages": [
+            "ar"
+        ],
+        "name": "Kuwait",
+        "region": "Asia"
+    },
+    "KY": {
+        "currency": {
+            "primary": "KYD"
+        },
+        "iso": {
+            "code2": "KY",
+            "code3": "CYM",
+            "num": "136"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Cayman Islands",
+        "region": "Americas"
+    },
+    "KZ": {
+        "currency": {
+            "primary": "KZT"
+        },
+        "iso": {
+            "code2": "KZ",
+            "code3": "KAZ",
+            "num": "398"
+        },
+        "languages": [
+            "kk",
+            "ru"
+        ],
+        "name": "Kazakhstan",
+        "region": "Asia"
+    },
+    "LA": {
+        "currency": {
+            "primary": "LAK"
+        },
+        "iso": {
+            "code2": "LA",
+            "code3": "LAO",
+            "num": "418"
+        },
+        "languages": [
+            "lo"
+        ],
+        "name": "Laos",
+        "region": "Asia"
+    },
+    "LB": {
+        "currency": {
+            "primary": "LBP"
+        },
+        "iso": {
+            "code2": "LB",
+            "code3": "LBN",
+            "num": "422"
+        },
+        "languages": [
+            "ar",
+            "fr"
+        ],
+        "name": "Lebanon",
+        "region": "Asia"
+    },
+    "LC": {
+        "currency": {
+            "primary": "XCD"
+        },
+        "iso": {
+            "code2": "LC",
+            "code3": "LCA",
+            "num": "662"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Saint Lucia",
+        "region": "Americas"
+    },
+    "LI": {
+        "currency": {
+            "primary": "CHF"
+        },
+        "iso": {
+            "code2": "LI",
+            "code3": "LIE",
+            "num": "438"
+        },
+        "languages": [
+            "de"
+        ],
+        "name": "Liechtenstein",
+        "region": "Europe"
+    },
+    "LK": {
+        "currency": {
+            "primary": "LKR"
+        },
+        "iso": {
+            "code2": "LK",
+            "code3": "LKA",
+            "num": "144"
+        },
+        "languages": [
+            "si",
+            "ta"
+        ],
+        "name": "Sri Lanka",
+        "region": "Asia"
+    },
+    "LR": {
+        "currency": {
+            "primary": "LRD"
+        },
+        "iso": {
+            "code2": "LR",
+            "code3": "LBR",
+            "num": "430"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Liberia",
+        "region": "Africa"
+    },
+    "LS": {
+        "currency": {
+            "primary": "LSL"
+        },
+        "iso": {
+            "code2": "LS",
+            "code3": "LSO",
+            "num": "426"
+        },
+        "languages": [
+            "en",
+            "st"
+        ],
+        "name": "Lesotho",
+        "region": "Africa"
+    },
+    "LT": {
+        "currency": {
+            "primary": "LTL"
+        },
+        "iso": {
+            "code2": "LT",
+            "code3": "LTU",
+            "num": "440"
+        },
+        "languages": [
+            "lt"
+        ],
+        "name": "Lithuania",
+        "region": "Europe"
+    },
+    "LU": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "LU",
+            "code3": "LUX",
+            "num": "442"
+        },
+        "languages": [
+            "fr",
+            "de",
+            "lb"
+        ],
+        "name": "Luxembourg",
+        "region": "Europe"
+    },
+    "LV": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "LV",
+            "code3": "LVA",
+            "num": "428"
+        },
+        "languages": [
+            "lv"
+        ],
+        "name": "Latvia",
+        "region": "Europe"
+    },
+    "LY": {
+        "currency": {
+            "primary": "LYD"
+        },
+        "iso": {
+            "code2": "LY",
+            "code3": "LBY",
+            "num": "434"
+        },
+        "languages": [
+            "ar"
+        ],
+        "name": "Libya",
+        "region": "Africa"
+    },
+    "MA": {
+        "currency": {
+            "primary": "MAD"
+        },
+        "iso": {
+            "code2": "MA",
+            "code3": "MAR",
+            "num": "504"
+        },
+        "languages": [
+            "ar"
+        ],
+        "name": "Morocco",
+        "region": "Africa"
+    },
+    "MC": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "MC",
+            "code3": "MCO",
+            "num": "492"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "Monaco",
+        "region": "Europe"
+    },
+    "MD": {
+        "currency": {
+            "primary": "MDL"
+        },
+        "iso": {
+            "code2": "MD",
+            "code3": "MDA",
+            "num": "498"
+        },
+        "languages": [
+            "ro"
+        ],
+        "name": "Moldova",
+        "region": "Europe"
+    },
+    "ME": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "ME",
+            "code3": "MNE",
+            "num": "499"
+        },
+        "languages": [
+            "sr",
+            "bs",
+            "sq",
+            "hr"
+        ],
+        "name": "Montenegro",
+        "region": "Europe"
+    },
+    "MF": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "MF",
+            "code3": "MAF",
+            "num": "663"
+        },
+        "languages": [
+            "en",
+            "fr",
+            "nl"
+        ],
+        "name": "Saint Martin",
+        "region": "Americas"
+    },
+    "MG": {
+        "currency": {
+            "primary": "MGA"
+        },
+        "iso": {
+            "code2": "MG",
+            "code3": "MDG",
+            "num": "450"
+        },
+        "languages": [
+            "fr",
+            "mg"
+        ],
+        "name": "Madagascar",
+        "region": "Africa"
+    },
+    "MH": {
+        "currency": {
+            "primary": "USD"
+        },
+        "iso": {
+            "code2": "MH",
+            "code3": "MHL",
+            "num": "584"
+        },
+        "languages": [
+            "en",
+            "mh"
+        ],
+        "name": "Marshall Islands",
+        "region": "Oceania"
+    },
+    "MK": {
+        "currency": {
+            "primary": "MKD"
+        },
+        "iso": {
+            "code2": "MK",
+            "code3": "MKD",
+            "num": "807"
+        },
+        "languages": [
+            "mk"
+        ],
+        "name": "Macedonia",
+        "region": "Europe"
+    },
+    "ML": {
+        "currency": {
+            "primary": "XOF"
+        },
+        "iso": {
+            "code2": "ML",
+            "code3": "MLI",
+            "num": "466"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "Mali",
+        "region": "Africa"
+    },
+    "MM": {
+        "currency": {
+            "primary": "MMK"
+        },
+        "iso": {
+            "code2": "MM",
+            "code3": "MMR",
+            "num": "104"
+        },
+        "languages": [
+            "my"
+        ],
+        "name": "Myanmar",
+        "region": "Asia"
+    },
+    "MN": {
+        "currency": {
+            "primary": "MNT"
+        },
+        "iso": {
+            "code2": "MN",
+            "code3": "MNG",
+            "num": "496"
+        },
+        "languages": [
+            "mn"
+        ],
+        "name": "Mongolia",
+        "region": "Asia"
+    },
+    "MO": {
+        "currency": {
+            "primary": "MOP"
+        },
+        "iso": {
+            "code2": "MO",
+            "code3": "MAC",
+            "num": "446"
+        },
+        "languages": [
+            "zh",
+            "pt"
+        ],
+        "name": "Macau",
+        "region": "Asia"
+    },
+    "MP": {
+        "currency": {
+            "primary": "USD"
+        },
+        "iso": {
+            "code2": "MP",
+            "code3": "MNP",
+            "num": "580"
+        },
+        "languages": [
+            "en",
+            "ch"
+        ],
+        "name": "Northern Mariana Islands",
+        "region": "Oceania"
+    },
+    "MQ": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "MQ",
+            "code3": "MTQ",
+            "num": "474"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "Martinique",
+        "region": "Americas"
+    },
+    "MR": {
+        "currency": {
+            "primary": "MRO"
+        },
+        "iso": {
+            "code2": "MR",
+            "code3": "MRT",
+            "num": "478"
+        },
+        "languages": [
+            "ar"
+        ],
+        "name": "Mauritania",
+        "region": "Africa"
+    },
+    "MS": {
+        "currency": {
+            "primary": "XCD"
+        },
+        "iso": {
+            "code2": "MS",
+            "code3": "MSR",
+            "num": "500"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Montserrat",
+        "region": "Americas"
+    },
+    "MT": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "MT",
+            "code3": "MLT",
+            "num": "470"
+        },
+        "languages": [
+            "mt",
+            "en"
+        ],
+        "name": "Malta",
+        "region": "Europe"
+    },
+    "MU": {
+        "currency": {
+            "primary": "MUR"
+        },
+        "iso": {
+            "code2": "MU",
+            "code3": "MUS",
+            "num": "480"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Mauritius",
+        "region": "Africa"
+    },
+    "MV": {
+        "currency": {
+            "primary": "MVR"
+        },
+        "iso": {
+            "code2": "MV",
+            "code3": "MDV",
+            "num": "462"
+        },
+        "languages": [
+            "dv"
+        ],
+        "name": "Maldives",
+        "region": "Asia"
+    },
+    "MW": {
+        "currency": {
+            "primary": "MWK"
+        },
+        "iso": {
+            "code2": "MW",
+            "code3": "MWI",
+            "num": "454"
+        },
+        "languages": [
+            "en",
+            "ny"
+        ],
+        "name": "Malawi",
+        "region": "Africa"
+    },
+    "MX": {
+        "currency": {
+            "primary": "MXN"
+        },
+        "iso": {
+            "code2": "MX",
+            "code3": "MEX",
+            "num": "484"
+        },
+        "languages": [
+            "es"
+        ],
+        "name": "Mexico",
+        "region": "Americas"
+    },
+    "MY": {
+        "currency": {
+            "primary": "MYR"
+        },
+        "iso": {
+            "code2": "MY",
+            "code3": "MYS",
+            "num": "458"
+        },
+        "languages": [],
+        "name": "Malaysia",
+        "region": "Asia"
+    },
+    "MZ": {
+        "currency": {
+            "primary": "MZN"
+        },
+        "iso": {
+            "code2": "MZ",
+            "code3": "MOZ",
+            "num": "508"
+        },
+        "languages": [
+            "pt"
+        ],
+        "name": "Mozambique",
+        "region": "Africa"
+    },
+    "NA": {
+        "currency": {
+            "primary": "NAD"
+        },
+        "iso": {
+            "code2": "NA",
+            "code3": "NAM",
+            "num": "516"
+        },
+        "languages": [
+            "en",
+            "af"
+        ],
+        "name": "Namibia",
+        "region": "Africa"
+    },
+    "NC": {
+        "currency": {
+            "primary": "XPF"
+        },
+        "iso": {
+            "code2": "NC",
+            "code3": "NCL",
+            "num": "540"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "New Caledonia",
+        "region": "Oceania"
+    },
+    "NE": {
+        "currency": {
+            "primary": "XOF"
+        },
+        "iso": {
+            "code2": "NE",
+            "code3": "NER",
+            "num": "562"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "Niger",
+        "region": "Africa"
+    },
+    "NF": {
+        "currency": {
+            "primary": "AUD"
+        },
+        "iso": {
+            "code2": "NF",
+            "code3": "NFK",
+            "num": "574"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Norfolk Island",
+        "region": "Oceania"
+    },
+    "NG": {
+        "currency": {
+            "primary": "NGN"
+        },
+        "iso": {
+            "code2": "NG",
+            "code3": "NGA",
+            "num": "566"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Nigeria",
+        "region": "Africa"
+    },
+    "NI": {
+        "currency": {
+            "primary": "NIO"
+        },
+        "iso": {
+            "code2": "NI",
+            "code3": "NIC",
+            "num": "558"
+        },
+        "languages": [
+            "es"
+        ],
+        "name": "Nicaragua",
+        "region": "Americas"
+    },
+    "NL": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "NL",
+            "code3": "NLD",
+            "num": "528"
+        },
+        "languages": [
+            "nl"
+        ],
+        "name": "Netherlands",
+        "region": "Europe"
+    },
+    "NO": {
+        "currency": {
+            "primary": "NOK"
+        },
+        "iso": {
+            "code2": "NO",
+            "code3": "NOR",
+            "num": "578"
+        },
+        "languages": [
+            "no",
+            "nb",
+            "nn"
+        ],
+        "name": "Norway",
+        "region": "Europe"
+    },
+    "NP": {
+        "currency": {
+            "primary": "NPR"
+        },
+        "iso": {
+            "code2": "NP",
+            "code3": "NPL",
+            "num": "524"
+        },
+        "languages": [
+            "ne"
+        ],
+        "name": "Nepal",
+        "region": "Asia"
+    },
+    "NR": {
+        "currency": {
+            "primary": "AUD"
+        },
+        "iso": {
+            "code2": "NR",
+            "code3": "NRU",
+            "num": "520"
+        },
+        "languages": [
+            "en",
+            "na"
+        ],
+        "name": "Nauru",
+        "region": "Oceania"
+    },
+    "NU": {
+        "currency": {
+            "primary": "NZD"
+        },
+        "iso": {
+            "code2": "NU",
+            "code3": "NIU",
+            "num": "570"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Niue",
+        "region": "Oceania"
+    },
+    "NZ": {
+        "currency": {
+            "primary": "NZD"
+        },
+        "iso": {
+            "code2": "NZ",
+            "code3": "NZL",
+            "num": "554"
+        },
+        "languages": [
+            "en",
+            "mi"
+        ],
+        "name": "New Zealand",
+        "region": "Oceania"
+    },
+    "OM": {
+        "currency": {
+            "primary": "OMR"
+        },
+        "iso": {
+            "code2": "OM",
+            "code3": "OMN",
+            "num": "512"
+        },
+        "languages": [
+            "ar"
+        ],
+        "name": "Oman",
+        "region": "Asia"
+    },
+    "PA": {
+        "currency": {
+            "primary": "PAB"
+        },
+        "iso": {
+            "code2": "PA",
+            "code3": "PAN",
+            "num": "591"
+        },
+        "languages": [
+            "es"
+        ],
+        "name": "Panama",
+        "region": "Americas"
+    },
+    "PE": {
+        "currency": {
+            "primary": "PEN"
+        },
+        "iso": {
+            "code2": "PE",
+            "code3": "PER",
+            "num": "604"
+        },
+        "languages": [
+            "es"
+        ],
+        "name": "Peru",
+        "region": "Americas"
+    },
+    "PF": {
+        "currency": {
+            "primary": "XPF"
+        },
+        "iso": {
+            "code2": "PF",
+            "code3": "PYF",
+            "num": "258"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "French Polynesia",
+        "region": "Oceania"
+    },
+    "PG": {
+        "currency": {
+            "primary": "PGK"
+        },
+        "iso": {
+            "code2": "PG",
+            "code3": "PNG",
+            "num": "598"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Papua New Guinea",
+        "region": "Oceania"
+    },
+    "PH": {
+        "currency": {
+            "primary": "PHP"
+        },
+        "iso": {
+            "code2": "PH",
+            "code3": "PHL",
+            "num": "608"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Philippines",
+        "region": "Asia"
+    },
+    "PK": {
+        "currency": {
+            "primary": "PKR"
+        },
+        "iso": {
+            "code2": "PK",
+            "code3": "PAK",
+            "num": "586"
+        },
+        "languages": [
+            "en",
+            "ur"
+        ],
+        "name": "Pakistan",
+        "region": "Asia"
+    },
+    "PL": {
+        "currency": {
+            "primary": "PLN"
+        },
+        "iso": {
+            "code2": "PL",
+            "code3": "POL",
+            "num": "616"
+        },
+        "languages": [
+            "pl"
+        ],
+        "name": "Poland",
+        "region": "Europe"
+    },
+    "PM": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "PM",
+            "code3": "SPM",
+            "num": "666"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "Saint Pierre and Miquelon",
+        "region": "Americas"
+    },
+    "PN": {
+        "currency": {
+            "primary": "NZD"
+        },
+        "iso": {
+            "code2": "PN",
+            "code3": "PCN",
+            "num": "612"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Pitcairn Islands",
+        "region": "Oceania"
+    },
+    "PR": {
+        "currency": {
+            "primary": "USD"
+        },
+        "iso": {
+            "code2": "PR",
+            "code3": "PRI",
+            "num": "630"
+        },
+        "languages": [
+            "es",
+            "en"
+        ],
+        "name": "Puerto Rico",
+        "region": "Americas"
+    },
+    "PS": {
+        "currency": {
+            "primary": "ILS"
+        },
+        "iso": {
+            "code2": "PS",
+            "code3": "PSE",
+            "num": "275"
+        },
+        "languages": [
+            "ar"
+        ],
+        "name": "Palestine",
+        "region": "Asia"
+    },
+    "PT": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "PT",
+            "code3": "PRT",
+            "num": "620"
+        },
+        "languages": [
+            "pt"
+        ],
+        "name": "Portugal",
+        "region": "Europe"
+    },
+    "PW": {
+        "currency": {
+            "primary": "USD"
+        },
+        "iso": {
+            "code2": "PW",
+            "code3": "PLW",
+            "num": "585"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Palau",
+        "region": "Oceania"
+    },
+    "PY": {
+        "currency": {
+            "primary": "PYG"
+        },
+        "iso": {
+            "code2": "PY",
+            "code3": "PRY",
+            "num": "600"
+        },
+        "languages": [
+            "es",
+            "gn"
+        ],
+        "name": "Paraguay",
+        "region": "Americas"
+    },
+    "QA": {
+        "currency": {
+            "primary": "QAR"
+        },
+        "iso": {
+            "code2": "QA",
+            "code3": "QAT",
+            "num": "634"
+        },
+        "languages": [
+            "ar"
+        ],
+        "name": "Qatar",
+        "region": "Asia"
+    },
+    "RE": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "RE",
+            "code3": "REU",
+            "num": "638"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "Réunion",
+        "region": "Africa"
+    },
+    "RO": {
+        "currency": {
+            "primary": "RON"
+        },
+        "iso": {
+            "code2": "RO",
+            "code3": "ROU",
+            "num": "642"
+        },
+        "languages": [
+            "ro"
+        ],
+        "name": "Romania",
+        "region": "Europe"
+    },
+    "RS": {
+        "currency": {
+            "primary": "RSD"
+        },
+        "iso": {
+            "code2": "RS",
+            "code3": "SRB",
+            "num": "688"
+        },
+        "languages": [
+            "sr"
+        ],
+        "name": "Serbia",
+        "region": "Europe"
+    },
+    "RU": {
+        "currency": {
+            "primary": "RUB"
+        },
+        "iso": {
+            "code2": "RU",
+            "code3": "RUS",
+            "num": "643"
+        },
+        "languages": [
+            "ru"
+        ],
+        "name": "Russia",
+        "region": "Europe"
+    },
+    "RW": {
+        "currency": {
+            "primary": "RWF"
+        },
+        "iso": {
+            "code2": "RW",
+            "code3": "RWA",
+            "num": "646"
+        },
+        "languages": [
+            "rw",
+            "en",
+            "fr"
+        ],
+        "name": "Rwanda",
+        "region": "Africa"
+    },
+    "SA": {
+        "currency": {
+            "primary": "SAR"
+        },
+        "iso": {
+            "code2": "SA",
+            "code3": "SAU",
+            "num": "682"
+        },
+        "languages": [
+            "ar"
+        ],
+        "name": "Saudi Arabia",
+        "region": "Asia"
+    },
+    "SB": {
+        "currency": {
+            "primary": "SDB"
+        },
+        "iso": {
+            "code2": "SB",
+            "code3": "SLB",
+            "num": "090"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Solomon Islands",
+        "region": "Oceania"
+    },
+    "SC": {
+        "currency": {
+            "primary": "SCR"
+        },
+        "iso": {
+            "code2": "SC",
+            "code3": "SYC",
+            "num": "690"
+        },
+        "languages": [
+            "fr",
+            "en"
+        ],
+        "name": "Seychelles",
+        "region": "Africa"
+    },
+    "SD": {
+        "currency": {
+            "primary": "SDG"
+        },
+        "iso": {
+            "code2": "SD",
+            "code3": "SDN",
+            "num": "729"
+        },
+        "languages": [
+            "ar",
+            "en"
+        ],
+        "name": "Sudan",
+        "region": "Africa"
+    },
+    "SE": {
+        "currency": {
+            "primary": "SEK"
+        },
+        "iso": {
+            "code2": "SE",
+            "code3": "SWE",
+            "num": "752"
+        },
+        "languages": [
+            "sv"
+        ],
+        "name": "Sweden",
+        "region": "Europe"
+    },
+    "SG": {
+        "currency": {
+            "primary": "SGD"
+        },
+        "iso": {
+            "code2": "SG",
+            "code3": "SGP",
+            "num": "702"
+        },
+        "languages": [
+            "en",
+            "ms",
+            "ta",
+            "zh"
+        ],
+        "name": "Singapore",
+        "region": "Asia"
+    },
+    "SH": {
+        "currency": {
+            "primary": "SHP"
+        },
+        "iso": {
+            "code2": "SH",
+            "code3": "SHN",
+            "num": "654"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Saint Helena",
+        "region": "Africa"
+    },
+    "SI": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "SI",
+            "code3": "SVN",
+            "num": "705"
+        },
+        "languages": [
+            "sl"
+        ],
+        "name": "Slovenia",
+        "region": "Europe"
+    },
+    "SJ": {
+        "currency": {
+            "primary": "NOK"
+        },
+        "iso": {
+            "code2": "SJ",
+            "code3": "SJM",
+            "num": "744"
+        },
+        "languages": [
+            "no"
+        ],
+        "name": "Svalbard and Jan Mayen",
+        "region": "Europe"
+    },
+    "SK": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "SK",
+            "code3": "SVK",
+            "num": "703"
+        },
+        "languages": [
+            "sk"
+        ],
+        "name": "Slovakia",
+        "region": "Europe"
+    },
+    "SL": {
+        "currency": {
+            "primary": "SLL"
+        },
+        "iso": {
+            "code2": "SL",
+            "code3": "SLE",
+            "num": "694"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Sierra Leone",
+        "region": "Africa"
+    },
+    "SM": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "SM",
+            "code3": "SMR",
+            "num": "674"
+        },
+        "languages": [
+            "it"
+        ],
+        "name": "San Marino",
+        "region": "Europe"
+    },
+    "SN": {
+        "currency": {
+            "primary": "XOF"
+        },
+        "iso": {
+            "code2": "SN",
+            "code3": "SEN",
+            "num": "686"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "Senegal",
+        "region": "Africa"
+    },
+    "SO": {
+        "currency": {
+            "primary": "SOS"
+        },
+        "iso": {
+            "code2": "SO",
+            "code3": "SOM",
+            "num": "706"
+        },
+        "languages": [
+            "so",
+            "ar"
+        ],
+        "name": "Somalia",
+        "region": "Africa"
+    },
+    "SR": {
+        "currency": {
+            "primary": "SRD"
+        },
+        "iso": {
+            "code2": "SR",
+            "code3": "SUR",
+            "num": "740"
+        },
+        "languages": [
+            "nl"
+        ],
+        "name": "Suriname",
+        "region": "Americas"
+    },
+    "SS": {
+        "currency": {
+            "primary": "SSP"
+        },
+        "iso": {
+            "code2": "SS",
+            "code3": "SSD",
+            "num": "728"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "South Sudan",
+        "region": "Africa"
+    },
+    "ST": {
+        "currency": {
+            "primary": "STD"
+        },
+        "iso": {
+            "code2": "ST",
+            "code3": "STP",
+            "num": "678"
+        },
+        "languages": [
+            "pt"
+        ],
+        "name": "São Tomé and Príncipe",
+        "region": "Africa"
+    },
+    "SV": {
+        "currency": {
+            "primary": "SVC"
+        },
+        "iso": {
+            "code2": "SV",
+            "code3": "SLV",
+            "num": "222"
+        },
+        "languages": [
+            "es"
+        ],
+        "name": "El Salvador",
+        "region": "Americas"
+    },
+    "SX": {
+        "currency": {
+            "primary": "ANG"
+        },
+        "iso": {
+            "code2": "SX",
+            "code3": "SXM",
+            "num": "534"
+        },
+        "languages": [
+            "nl",
+            "en"
+        ],
+        "name": "Sint Maarten",
+        "region": "Americas"
+    },
+    "SY": {
+        "currency": {
+            "primary": "SYP"
+        },
+        "iso": {
+            "code2": "SY",
+            "code3": "SYR",
+            "num": "760"
+        },
+        "languages": [
+            "ar"
+        ],
+        "name": "Syria",
+        "region": "Asia"
+    },
+    "SZ": {
+        "currency": {
+            "primary": "SZL"
+        },
+        "iso": {
+            "code2": "SZ",
+            "code3": "SWZ",
+            "num": "748"
+        },
+        "languages": [
+            "en",
+            "ss"
+        ],
+        "name": "Swaziland",
+        "region": "Africa"
+    },
+    "TC": {
+        "currency": {
+            "primary": "USD"
+        },
+        "iso": {
+            "code2": "TC",
+            "code3": "TCA",
+            "num": "796"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Turks and Caicos Islands",
+        "region": "Americas"
+    },
+    "TD": {
+        "currency": {
+            "primary": "XAF"
+        },
+        "iso": {
+            "code2": "TD",
+            "code3": "TCD",
+            "num": "148"
+        },
+        "languages": [
+            "fr",
+            "ar"
+        ],
+        "name": "Chad",
+        "region": "Africa"
+    },
+    "TF": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "TF",
+            "code3": "ATF",
+            "num": "260"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "French Southern and Antarctic Lands",
+        "region": null
+    },
+    "TG": {
+        "currency": {
+            "primary": "XOF"
+        },
+        "iso": {
+            "code2": "TG",
+            "code3": "TGO",
+            "num": "768"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "Togo",
+        "region": "Africa"
+    },
+    "TH": {
+        "currency": {
+            "primary": "THB"
+        },
+        "iso": {
+            "code2": "TH",
+            "code3": "THA",
+            "num": "764"
+        },
+        "languages": [
+            "th"
+        ],
+        "name": "Thailand",
+        "region": "Asia"
+    },
+    "TJ": {
+        "currency": {
+            "primary": "TJS"
+        },
+        "iso": {
+            "code2": "TJ",
+            "code3": "TJK",
+            "num": "762"
+        },
+        "languages": [
+            "tg",
+            "ru"
+        ],
+        "name": "Tajikistan",
+        "region": "Asia"
+    },
+    "TK": {
+        "currency": {
+            "primary": "NZD"
+        },
+        "iso": {
+            "code2": "TK",
+            "code3": "TKL",
+            "num": "772"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Tokelau",
+        "region": "Oceania"
+    },
+    "TL": {
+        "currency": {
+            "primary": "USD"
+        },
+        "iso": {
+            "code2": "TL",
+            "code3": "TLS",
+            "num": "626"
+        },
+        "languages": [
+            "pt"
+        ],
+        "name": "Timor-Leste",
+        "region": "Asia"
+    },
+    "TM": {
+        "currency": {
+            "primary": "TMT"
+        },
+        "iso": {
+            "code2": "TM",
+            "code3": "TKM",
+            "num": "795"
+        },
+        "languages": [
+            "tk",
+            "ru"
+        ],
+        "name": "Turkmenistan",
+        "region": "Asia"
+    },
+    "TN": {
+        "currency": {
+            "primary": "TND"
+        },
+        "iso": {
+            "code2": "TN",
+            "code3": "TUN",
+            "num": "788"
+        },
+        "languages": [
+            "ar"
+        ],
+        "name": "Tunisia",
+        "region": "Africa"
+    },
+    "TO": {
+        "currency": {
+            "primary": "TOP"
+        },
+        "iso": {
+            "code2": "TO",
+            "code3": "TON",
+            "num": "776"
+        },
+        "languages": [
+            "en",
+            "to"
+        ],
+        "name": "Tonga",
+        "region": "Oceania"
+    },
+    "TR": {
+        "currency": {
+            "primary": "TRY"
+        },
+        "iso": {
+            "code2": "TR",
+            "code3": "TUR",
+            "num": "792"
+        },
+        "languages": [
+            "tr"
+        ],
+        "name": "Turkey",
+        "region": "Asia"
+    },
+    "TT": {
+        "currency": {
+            "primary": "TTD"
+        },
+        "iso": {
+            "code2": "TT",
+            "code3": "TTO",
+            "num": "780"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Trinidad and Tobago",
+        "region": "Americas"
+    },
+    "TV": {
+        "currency": {
+            "primary": "AUD"
+        },
+        "iso": {
+            "code2": "TV",
+            "code3": "TUV",
+            "num": "798"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Tuvalu",
+        "region": "Oceania"
+    },
+    "TW": {
+        "currency": {
+            "primary": "TWD"
+        },
+        "iso": {
+            "code2": "TW",
+            "code3": "TWN",
+            "num": "158"
+        },
+        "languages": [
+            "zh"
+        ],
+        "name": "Taiwan",
+        "region": "Asia"
+    },
+    "TZ": {
+        "currency": {
+            "primary": "TZS"
+        },
+        "iso": {
+            "code2": "TZ",
+            "code3": "TZA",
+            "num": "834"
+        },
+        "languages": [
+            "sw",
+            "en"
+        ],
+        "name": "Tanzania",
+        "region": "Africa"
+    },
+    "UA": {
+        "currency": {
+            "primary": "UAH"
+        },
+        "iso": {
+            "code2": "UA",
+            "code3": "UKR",
+            "num": "804"
+        },
+        "languages": [
+            "uk"
+        ],
+        "name": "Ukraine",
+        "region": "Europe"
+    },
+    "UG": {
+        "currency": {
+            "primary": "UGX"
+        },
+        "iso": {
+            "code2": "UG",
+            "code3": "UGA",
+            "num": "800"
+        },
+        "languages": [
+            "en",
+            "sw"
+        ],
+        "name": "Uganda",
+        "region": "Africa"
+    },
+    "UM": {
+        "currency": {
+            "primary": "USD"
+        },
+        "iso": {
+            "code2": "UM",
+            "code3": "UMI",
+            "num": "581"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "United States Minor Outlying Islands",
+        "region": "Americas"
+    },
+    "US": {
+        "currency": {
+            "primary": "USD"
+        },
+        "iso": {
+            "code2": "US",
+            "code3": "USA",
+            "num": "840"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "United States",
+        "region": "Americas"
+    },
+    "UY": {
+        "currency": {
+            "primary": "UYI"
+        },
+        "iso": {
+            "code2": "UY",
+            "code3": "URY",
+            "num": "858"
+        },
+        "languages": [
+            "es"
+        ],
+        "name": "Uruguay",
+        "region": "Americas"
+    },
+    "UZ": {
+        "currency": {
+            "primary": "UZS"
+        },
+        "iso": {
+            "code2": "UZ",
+            "code3": "UZB",
+            "num": "860"
+        },
+        "languages": [
+            "uz",
+            "ru"
+        ],
+        "name": "Uzbekistan",
+        "region": "Asia"
+    },
+    "VA": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "VA",
+            "code3": "VAT",
+            "num": "336"
+        },
+        "languages": [
+            "it",
+            "la"
+        ],
+        "name": "Vatican City",
+        "region": "Europe"
+    },
+    "VC": {
+        "currency": {
+            "primary": "XCD"
+        },
+        "iso": {
+            "code2": "VC",
+            "code3": "VCT",
+            "num": "670"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Saint Vincent and the Grenadines",
+        "region": "Americas"
+    },
+    "VE": {
+        "currency": {
+            "primary": "VEF"
+        },
+        "iso": {
+            "code2": "VE",
+            "code3": "VEN",
+            "num": "862"
+        },
+        "languages": [
+            "es"
+        ],
+        "name": "Venezuela",
+        "region": "Americas"
+    },
+    "VG": {
+        "currency": {
+            "primary": "USD"
+        },
+        "iso": {
+            "code2": "VG",
+            "code3": "VGB",
+            "num": "092"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "British Virgin Islands",
+        "region": "Americas"
+    },
+    "VI": {
+        "currency": {
+            "primary": "USD"
+        },
+        "iso": {
+            "code2": "VI",
+            "code3": "VIR",
+            "num": "850"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "United States Virgin Islands",
+        "region": "Americas"
+    },
+    "VN": {
+        "currency": {
+            "primary": "VND"
+        },
+        "iso": {
+            "code2": "VN",
+            "code3": "VNM",
+            "num": "704"
+        },
+        "languages": [
+            "vi"
+        ],
+        "name": "Vietnam",
+        "region": "Asia"
+    },
+    "VU": {
+        "currency": {
+            "primary": "VUV"
+        },
+        "iso": {
+            "code2": "VU",
+            "code3": "VUT",
+            "num": "548"
+        },
+        "languages": [
+            "bi",
+            "en",
+            "fr"
+        ],
+        "name": "Vanuatu",
+        "region": "Oceania"
+    },
+    "WF": {
+        "currency": {
+            "primary": "XPF"
+        },
+        "iso": {
+            "code2": "WF",
+            "code3": "WLF",
+            "num": "876"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "Wallis and Futuna",
+        "region": "Oceania"
+    },
+    "WS": {
+        "currency": {
+            "primary": "WST"
+        },
+        "iso": {
+            "code2": "WS",
+            "code3": "WSM",
+            "num": "882"
+        },
+        "languages": [
+            "sm",
+            "en"
+        ],
+        "name": "Samoa",
+        "region": "Oceania"
+    },
+    "XK": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "XK",
+            "code3": "KOS",
+            "num": "780"
+        },
+        "languages": [
+            "sq",
+            "sr"
+        ],
+        "name": "Republic of Kosovo",
+        "region": "Europe"
+    },
+    "YE": {
+        "currency": {
+            "primary": "YER"
+        },
+        "iso": {
+            "code2": "YE",
+            "code3": "YEM",
+            "num": "887"
+        },
+        "languages": [
+            "ar"
+        ],
+        "name": "Yemen",
+        "region": "Asia"
+    },
+    "YT": {
+        "currency": {
+            "primary": "EUR"
+        },
+        "iso": {
+            "code2": "YT",
+            "code3": "MYT",
+            "num": "175"
+        },
+        "languages": [
+            "fr"
+        ],
+        "name": "Mayotte",
+        "region": "Africa"
+    },
+    "ZA": {
+        "currency": {
+            "primary": "ZAR"
+        },
+        "iso": {
+            "code2": "ZA",
+            "code3": "ZAF",
+            "num": "710"
+        },
+        "languages": [
+            "af",
+            "en",
+            "nr",
+            "st",
+            "ss",
+            "tn",
+            "ts",
+            "ve",
+            "xh",
+            "zu"
+        ],
+        "name": "South Africa",
+        "region": "Africa"
+    },
+    "ZM": {
+        "currency": {
+            "primary": "ZMK"
+        },
+        "iso": {
+            "code2": "ZM",
+            "code3": "ZMB",
+            "num": "894"
+        },
+        "languages": [
+            "en"
+        ],
+        "name": "Zambia",
+        "region": "Africa"
+    },
+    "ZW": {
+        "currency": {
+            "primary": "ZWL"
+        },
+        "iso": {
+            "code2": "ZW",
+            "code3": "ZWE",
+            "num": "716"
+        },
+        "languages": [
+            "en",
+            "sn",
+            "nd"
+        ],
+        "name": "Zimbabwe",
+        "region": "Africa"
+    }
+}

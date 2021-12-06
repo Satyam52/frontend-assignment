@@ -1,0 +1,54 @@
+.weather-time-date {
+  color: orange;
+  font-family: "Helvetica";
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  flex-direction: column;
+}
+
+.weather-temp {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+.city-name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* It's a fancy button */
+.forecast-button {
+  background-color: transparent;
+  border: 2px solid green;
+  color: black;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin: 10px;
+}
+.forecast-button:hover {
+  background-color: rgb(10, 99, 7);
+  color: white;
+  transition: ease 0.5s;
+}
+
+.forecast-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 10px;
+}
+.forecast-card-temp {
+  display: flex;
+  align-items: center;
+}

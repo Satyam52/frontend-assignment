@@ -1,13 +1,9 @@
 Installing packages
 
-```
+*to install packages run the command :  npm install*
 
 ```
-
-*to install packages run the command :  npm run*
-
-```
-add valid keys of google map
+NOTE: add valid keys of google map
 ```
 
 
